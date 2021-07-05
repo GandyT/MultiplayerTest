@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/794673639932559381/861694727119175680/Official_unity_logo.png)
+![](https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png)
 
 # Multiplayer Test
 
