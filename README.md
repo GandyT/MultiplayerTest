@@ -4,12 +4,6 @@
 
 A simple Unity Multiplayer Demonstration (also for me to reuse in future projects)
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 ## Libraries Used
 
 - Mirror (Network Manager)
