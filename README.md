@@ -1,11 +1,4 @@
-<style type="text/css">
-    img {
-        width: 250px;
-        height: 250px;
-    }
-</style>
-
-![](https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png)
+<img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" width="500" height="500" />
 
 # Multiplayer Test
 
